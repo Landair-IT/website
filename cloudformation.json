@@ -73,7 +73,7 @@
     
     "DatabaseIdentifier" : {
       "Description" : "Identifier used by Amazon for the RDS database",
-      "Default" : "tuc-website",
+      "Default" : "landair-website",
       "Type": "String"
     },
       
